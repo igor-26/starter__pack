@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* your CSS goes here */
+
+.custom-css {
+  border: 1px solid red;
+}
